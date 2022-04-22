@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         print("hello World")
     }
 
-
+    //MARK: - Functions
+    func example(){
+        print("Login")
+    }
+    //MARK
 }
 
